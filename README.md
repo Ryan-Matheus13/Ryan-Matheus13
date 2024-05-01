@@ -38,10 +38,7 @@ Sou um entusiasta de tecnologia apaixonado por desenvolvimento web e design de i
 
 
 ## Projetos Principais
-- [Banco digital] - (repositório privado, feito em reactJS com typeScript)
-- [Banco digital app] - (repositório privado, feito em react native com typeScript)
-- [Agendamento de vistorias com pagamento] - (repositório privado, feito em reactJS e vueJs com typeScript)
-- [Analise de pesquisas eleitorais] - (repositório privado, feito em reactJS com typeScript)
-- [App para pesquisador eleitoral] - (repositório privado, feito em react native com typeScript)
+- [Carteira digital para corretores] - (repositório privado, feito em reactJS com typeScript)
+- [Agendamento de serviços com pagamento] - (repositório privado, feito em reactJS e vueJs com typeScript)
+- [Analise e coleta de pesquisas eleitorais] - (repositório privado, feito em reactJS com typeScript)
 - [Gerenciamento e controle de acesso portaria] - (repositório privado, feito em em pHp com codeigniter)
-- [App controle de acesso de portaria] - (repositório privado, feito em react native com javaScript)
