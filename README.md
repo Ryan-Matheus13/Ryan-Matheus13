@@ -3,8 +3,7 @@
 ## Sobre mim
 Sou um entusiasta de tecnologia apaixonado por desenvolvimento web e design de interface do usuário. Sempre buscando aprender e expandir minhas habilidades em diferentes áreas da programação.
 
-- 🔭 Atualmente estou trabalhando em uma agência de marketing no setor tech.
-- 💬 Me pergunte sobre qualquer coisa relacionada a frontend, desenvolvimento web ou UI/UX design
+- 💬 Me pergunte sobre qualquer coisa relacionada a frontend ou desenvolvimento mobile, desenvolvimento web ou UI/UX design
 - 📫 Como me encontrar: email: ryanmatheusdevloper@gmail.com | linkedin: [Ryan Matheus](https://www.linkedin.com/in/ryan-matheus-santana-ba7589212/)
 
 
